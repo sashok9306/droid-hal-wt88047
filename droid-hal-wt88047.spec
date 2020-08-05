@@ -3,7 +3,7 @@
 
 %define device wt88047
 %define vendor wingtech
-
+%define droid_target_armv7hl 1
 %define vendor_pretty Xiaomi
 %define device_pretty Redmi 2
 
